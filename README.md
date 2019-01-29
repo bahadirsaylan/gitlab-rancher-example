@@ -2,6 +2,8 @@
 
 In this example we will create an installation of Gitlab and Rancher from strach on Digitalocean.
 
+Youtube recording https://www.youtube.com/watch?v=sHjnpWuJhwA&list=PLJ0nYE0NtQxaoo-KJ5ciDn2AbOGHlH3OI
+
 ### 1. Gitlab
 
 #### 1.0. create Gitlab Digitalocean VM
